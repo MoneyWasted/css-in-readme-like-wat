@@ -84,6 +84,7 @@
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
 				<p>Click to see the source</p>
+				<img src=x onerror=alert(1) />
 				<script type="text/javascript">
                                        alert("Ghostlulz XSS");
                                 </script>
